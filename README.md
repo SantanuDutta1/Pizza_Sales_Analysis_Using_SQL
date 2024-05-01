@@ -1,4 +1,5 @@
-# Pizza Sales Analysis
+<h1 align="center">  <img src="Photos/download.png" width="60" height="50"/> </a>   Pizza Sales Analysis using SQL <a  target="_blank"> <img src="Photos/images.png"  width="60" height="50"/> </a> </h1>
+
 
 ## Project Overview
 This project explores a pizza sales database to answer a set of questions that help understand the operational performance, product trends, customer behavior, and revenue insights for a pizza business. Using SQL, the project analyzes various aspects of the data to derive meaningful conclusions that can guide business decisions.
@@ -74,17 +75,14 @@ Based on our Pizza Sales Analysis project, we've drawn several key insights abou
 
 These insights can guide strategic decisions in pizza business operations, allowing for a more targeted approach to marketing, product development, and customer engagement.
 
-## Data Link
-[Include link to the data source if publicly available]
 
 ## Project Link
 [Provide link to the project repository or other relevant resources]
 
 ## Author
 Santanu Dutta  
-[LinkedIn Profile](https://www.linkedin.com/in/santanudutta4328/)  
-[GitHub Profile](https://github.com/SantanuDutta4328)  
+[LinkedIn Profile](www.linkedin.com/in/santanu-dutta-b7048a255)  
+[GitHub Profile](https://github.com/SantanuDutta1)  
 
 ---
 
-Feel free to adjust and add other information to your project README as needed.
