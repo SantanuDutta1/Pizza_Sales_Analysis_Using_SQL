@@ -3,7 +3,7 @@
 ## Project Overview
 This project explores a pizza sales database to answer a set of questions that help understand the operational performance, product trends, customer behavior, and revenue insights for a pizza business. Using SQL, the project analyzes various aspects of the data to derive meaningful conclusions that can guide business decisions.
  <p align="center">
-  <img width="600" height="350" src="What_is_SQL_Database.png">
+  <img width="900" height="450" src="Photos/Pizza photo.png">
 </p>
 
 ## Understanding the Database
@@ -16,7 +16,7 @@ The database used for this project is `pizza_sales_database`, consisting of four
 ## Schema
 
  <p align="center">
-  <img width="600" height="350" src="What_is_SQL_Database.png">
+  <img width="600" height="350" src="Photos/WhatsApp Image 2024-04-27 at 10.48.22_f933ed84.jpg">
 </p>
 
 
