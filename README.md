@@ -77,7 +77,7 @@ These insights can guide strategic decisions in pizza business operations, allow
 
 
 ## Project Link
-[Provide link to the project repository or other relevant resources]
+[Link](https://github.com/SantanuDutta1/Pizza_Sales_Analysis_Using_SQL/blob/main/Pizza%20Sales%20SQL%20project/PIZZA%20SALES%20ANALYSIS%20QUERY.sql) 
 
 ## Author
 Santanu Dutta  
